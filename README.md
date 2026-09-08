@@ -11,5 +11,7 @@
 [![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-lightyellow?style=for-the-badge&logo=adobe&logoColor=white)](#) 
 ## Contact Info
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-lailap1201%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lailap1201@gmail.com)
-[![School Email](https://img.shields.io/badge/School%20Email-patel2lx%40dukes.jmu.edu-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel2lx@dukes.jmu.edu)
+[![School Email](https://img.shields.io/badge/School%20Email-patel2lx%40dukes.jmu.edu-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel2lx@dukes.jmu.edu) 
+ ## Remember you are 
+
 
