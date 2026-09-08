@@ -1,5 +1,7 @@
 # 🌸Hey, I'm Laila Patel!🌸
-🎓 I am a current Junior at James Madison University, and I enjoy being artsy and creative!
+![JMU SMAD Logo](https://www.jmu.edu/smad/_images/smadlogo-172px.jpg) 
+
+🎓 I am a current Junior at James Madison University, and I enjoy anything artsy and creative!
 ## About Me 
 - SMAD Major| Interactive Design Concentration 🎨
 - Digital Studies Minor 🖥️
@@ -12,9 +14,6 @@
 ## Contact Info
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-lailap1201%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lailap1201@gmail.com)
 [![School Email](https://img.shields.io/badge/School%20Email-patel2lx%40dukes.jmu.edu-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel2lx@dukes.jmu.edu) 
- ## Cool fact about me 
- I can sing! 🎤
-  ![My Image](image.jpg)
- 
+
 
 
